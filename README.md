@@ -308,3 +308,6 @@ plt.show()
 # Result:
  Thus,all the data visualization techniques of matplotlib has been implemented
 
+# SUMMARY
+In this experiment, different types of data visualization techniques were performed using the Matplotlib library in Python. Various plots such as line graphs, bar charts, scatter plots, histograms, box plots, pie charts, and stacked plots were created to represent data visually. These visualizations help to easily understand patterns, trends, and comparisons in data. The experiment showed how Matplotlib can turn raw data into meaningful graphs for better analysis and decision-making.
+
